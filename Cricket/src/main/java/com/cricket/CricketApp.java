@@ -10,7 +10,7 @@ public class CricketApp {
 
         // Update the player's batting and bowling numbers
         player.setNumberB(100);
-        player.setNumberBowl(12);
+        player.setNumberBowl(10);
 
         // Print the updated player's details
         System.out.println("Player Name: " + player.getPlayerName());
